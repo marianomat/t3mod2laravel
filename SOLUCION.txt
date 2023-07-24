@@ -1,0 +1,9 @@
+1) Modificar el .env y colocar el nombre correcto de base de datos
+2) Crear el controlador php artisan make:controller TareaController
+3) Crear el migration php artisan make:migration create_tareas_table
+4) Crear el modelo php artisan make:model Tarea
+5) Crear las rutas index, create y store apuntando a cada metodo del controller
+6) Implementar los metodos index, create y store en el controller
+7) Crear las vistas
+8) Completar el $table y $fillable en el model Tarea
+9) Completar la migracion de la tabla tareas y correr la migracion
